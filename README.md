@@ -1,4 +1,4 @@
-# Pool Member Diagnostic Page
+# Lab Load Balancer Web Content
 
 A single PHP page for load balancer pool members in a lab environment. 
 
