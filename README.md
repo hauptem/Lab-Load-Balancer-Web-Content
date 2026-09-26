@@ -1,6 +1,6 @@
 # Lab Load Balancer Web Content
 
-Ever take an F5 LTM class and see web content for pools that show you what the Big-IP is doing and what it knows? This is a single PHP page for load balancer pool members in a lab environment. 
+Ever take an F5 LTM class and see web content for pools that show you what the Big-IP is doing and what it knows? This is a single PHP page and some png files useful for load balancer pool member webservers in a lab environment. 
 
 <img width="1180" height="772" alt="Image" src="https://github.com/user-attachments/assets/9de51d16-2b8a-42ba-93cb-070703bbcf8f" />
 <img width="1174" height="867" alt="Image" src="https://github.com/user-attachments/assets/75b55014-ca4a-4a91-8ccb-f14c49a10eba" />
