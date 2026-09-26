@@ -35,3 +35,12 @@ Give each member its own set of images (for example, member 1 serves three image
 ## Notes
 
 This is meant for a lab to replicate testing persistence, load balance algorithms, etc.
+
+**Technical Disclaimer:**
+
+- This software is provided "AS IS" without warranty of any kind.
+- The authors and contributors are not responsible for any damages or issues that may arise from its use.
+- Always test thoroughly in non-production environments before deployment.
+- Review and understand all code before deploying.
+
+By using this software, you acknowledge that you have read and understood these disclaimers and agree to use this solution at your own risk.
