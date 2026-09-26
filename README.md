@@ -30,8 +30,6 @@ images/2.png
 images/3.png
 ```
 
-Give each member its own set of images (for example, member 1 serves three images labeled "1", member 2 serves three "2" images and so on)
-
 ## Notes
 
 This is meant for a lab to replicate testing persistence, load balance algorithms, etc.
